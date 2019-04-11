@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Numbers To Figure</string>
+    <string name="enter_number_instruction">Enter any three digit number</string>
+    <string name="number_in_words">Your number in words is</string>
 </resources>
